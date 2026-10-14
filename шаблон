@@ -1,0 +1,27 @@
+# Week 1 — Linux Basics
+
+## What I learned
+- Terminal and shell
+- Navigation in the filesystem
+- Creating, copying and moving files
+
+## Commands practiced
+| Command | Purpose | Example |
+|---|---|---|
+| `pwd` | Show current directory | `pwd` |
+| `ls` | List files | `ls -la` |
+| `cd` | Change directory | `cd Documents` |
+| `mkdir` | Create a directory | `mkdir test` |
+| `touch` | Create an empty file | `touch notes.txt` |
+
+## Practical exercises
+- [ ] Create a directory structure
+- [ ] Create and copy files
+- [ ] Rename and move files
+- [ ] Find my way around the filesystem without a graphical interface
+
+## Problems and solutions
+Write down problems you encountered and how you solved them.
+
+## Weekly summary
+What can I do independently now? What should I practice again?
